@@ -31,3 +31,4 @@ C:\Users\Admin\Desktop\yourProjectName\obj\Debug\net8.0\refint\YourProjectName.d
 C:\Users\Admin\Desktop\yourProjectName\obj\Debug\net8.0\YourProjectName.pdb
 C:\Users\Admin\Desktop\yourProjectName\obj\Debug\net8.0\YourProjectName.genruntimeconfig.cache
 C:\Users\Admin\Desktop\yourProjectName\obj\Debug\net8.0\ref\YourProjectName.dll
+C:\Users\Admin\Desktop\YourProjectName\obj\Debug\net8.0\YourProjectName.sourcelink.json
